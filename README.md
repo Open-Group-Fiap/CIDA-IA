@@ -43,8 +43,6 @@ Nesse projeto utilizamos o conceito processamento de linguagem natural (NLP) par
 
 ## Membros do projeto
 
-Amanda Bomfim De Oliveira - RM99741
-
 Cauã Alencar Rojas Romero - RM98638
 
 Jaci Teixeira Santos - RM99627
